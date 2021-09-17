@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanqureshiism&label=Profile%20views&color=0e75b6&style=flat" alt="faizanqureshiism" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@faizanism10" target="blank"><img src="https://img.shields.io/twitter/follow/@faizanism10?logo=twitter&style=for-the-badge" alt="@faizanism10" /></a> </p>
+<p align="left"> <a href="https://twitter.com/faizanism10" target="blank"><img src="https://img.shields.io/twitter/follow/faizanism10?logo=twitter&style=for-the-badge" alt="faizanism10" /></a> </p>
 
-- 🌱 I’m currently learning about full stack development **HTML5,CSS,all the front-end technologies 
-Django, NodeJS, express,flask,etc for back-end languages.**
+- 🌱 I’m currently learning about full stack development HTML5,CSS,all the front-end technologies ,back-end languages, database management, testing and deployment,etc **HTML, CSS,JavaScript, Python,Django, NodeJS, Express,flask, and many more.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FaizanQureshiism](https://github.com/FaizanQureshiism)
 
@@ -16,7 +15,7 @@ Django, NodeJS, express,flask,etc for back-end languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@faizanism10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@faizanism10" height="30" width="40" /></a>
+<a href="https://twitter.com/faizanism10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faizanism10" height="30" width="40" /></a>
 <a href="https://kaggle.com/faizanqureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="faizanqureshi" height="30" width="40" /></a>
 <a href="https://fb.com/faizan qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faizan qureshi" height="30" width="40" /></a>
 <a href="https://instagram.com/faizanism10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faizanism10" height="30" width="40" /></a>
